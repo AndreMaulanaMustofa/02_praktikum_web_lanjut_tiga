@@ -2076,9 +2076,9 @@ module.exports = {
 
 
     if (ud_header.classList.contains("sticky")) {
-      logo.src = "images/logo/logo.svg";
+      logo.src = "images/logo/logo-white.png";
     } else {
-      logo.src = "images/logo/logo-white.svg";
+      logo.src = "images/logo/logo-white.png";
     } // show or hide the back-top-top button
 
 

@@ -4,10 +4,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Pricing | Play Tailwind</title>
+    <title>
+      Educa Studio
+    </title>
     <link
       rel="shortcut icon"
-      href="{{asset('assets/images/logo/favicon.svg')}}"
+      href="{{asset('images/logo/favicon.ico')}}"
       type="image/x-icon"
     />
     <link rel="stylesheet" href="{{asset('css/app.css')}}"/>
@@ -40,7 +42,7 @@
           <div class="px-4 w-60 max-w-full">
             <a href="/" class="navbar-logo w-full block py-5">
               <img
-                src="images/logo/logo-white.svg"
+                src="images/logo/logo-white.png"
                 alt="logo"
                 class="w-full header-logo"
               />
@@ -97,7 +99,7 @@
                 <ul class="blcok lg:flex">
                   <li class="relative group">
                     <a
-                      href="#home"
+                      href="/#home"
                       class="
                         ud-menu-scroll
                         text-base text-dark
@@ -113,90 +115,6 @@
                       "
                     >
                       Home
-                    </a>
-                  </li>
-                  <li class="relative group">
-                    <a
-                      href="/#about"
-                      class="
-                        ud-menu-scroll
-                        text-base text-dark
-                        lg:text-white
-                        lg:group-hover:opacity-70
-                        lg:group-hover:text-white
-                        group-hover:text-primary
-                        py-2
-                        lg:py-6 lg:inline-flex lg:px-0
-                        flex
-                        mx-8
-                        lg:mr-0 lg:ml-7
-                        xl:ml-12
-                      "
-                    >
-                      About
-                    </a>
-                  </li>
-                  <li class="relative group">
-                    <a
-                      href="/#pricing"
-                      class="
-                        ud-menu-scroll
-                        text-base text-dark
-                        lg:text-white
-                        lg:group-hover:opacity-70
-                        lg:group-hover:text-white
-                        group-hover:text-primary
-                        py-2
-                        lg:py-6 lg:inline-flex lg:px-0
-                        flex
-                        mx-8
-                        lg:mr-0 lg:ml-7
-                        xl:ml-12
-                      "
-                    >
-                      Pricing
-                    </a>
-                  </li>
-                  <li class="relative group">
-                    <a
-                      href="/#team"
-                      class="
-                        ud-menu-scroll
-                        text-base text-dark
-                        lg:text-white
-                        lg:group-hover:opacity-70
-                        lg:group-hover:text-white
-                        group-hover:text-primary
-                        py-2
-                        lg:py-6 lg:inline-flex lg:px-0
-                        flex
-                        mx-8
-                        lg:mr-0 lg:ml-7
-                        xl:ml-12
-                      "
-                    >
-                      Team
-                    </a>
-                  </li>
-                  <li class="relative group">
-                    <a
-                      href="/#contact"
-                      class="
-                        ud-menu-scroll
-                        text-base text-dark
-                        lg:text-white
-                        lg:group-hover:opacity-70
-                        lg:group-hover:text-white
-                        group-hover:text-primary
-                        py-2
-                        lg:py-6 lg:inline-flex lg:px-0
-                        flex
-                        mx-8
-                        lg:mr-0 lg:ml-7
-                        xl:ml-12
-                      "
-                    >
-                      Contact
                     </a>
                   </li>
                   <li class="relative group submenu-item">
@@ -229,7 +147,7 @@
                         after:mt-[-2px]
                       "
                     >
-                      Pages
+                      Products
                     </a>
                     <div
                       class="
@@ -263,7 +181,7 @@
                           px-4
                         "
                       >
-                        About Page
+                        Marbel - Educational Games
                       </a>
                       <a
                         href="/pricing"
@@ -276,7 +194,7 @@
                           px-4
                         "
                       >
-                        Pricing Page
+                        Marbel & Friends - Kids Games
                       </a>
                       <a
                         href="/contact"
@@ -289,7 +207,7 @@
                           px-4
                         "
                       >
-                        Contact Page
+                        Riri - Story Books
                       </a>
                       <a
                         href="/blog-grids"
@@ -302,7 +220,7 @@
                           px-4
                         "
                       >
-                        Blog Grid Page
+                        Kolak - Kids Songs
                       </a>
                       <a
                         href="/blog-details"
@@ -315,7 +233,7 @@
                           px-4
                         "
                       >
-                        Blog Details Page
+                        Kabi - Islamic Apps
                       </a>
                       <a
                         href="/signup"
@@ -328,7 +246,7 @@
                           px-4
                         "
                       >
-                        Sign Up Page
+                        Marble Junior - Merchandise & Licensing
                       </a>
                       <a
                         href="/signin"
@@ -341,10 +259,86 @@
                           px-4
                         "
                       >
-                        Sign In Page
+                        Keong Games - Entertainment Games
                       </a>
+                    </div>
+                  </li>
+                  <li class="relative group">
+                    <a
+                      href="/#pricing"
+                      class="
+                        ud-menu-scroll
+                        text-base text-dark
+                        lg:text-white
+                        lg:group-hover:opacity-70
+                        lg:group-hover:text-white
+                        group-hover:text-primary
+                        py-2
+                        lg:py-6 lg:inline-flex lg:px-0
+                        flex
+                        mx-8
+                        lg:mr-0 lg:ml-7
+                        xl:ml-12
+                      "
+                    >
+                      News
+                    </a>
+                  </li>
+                  <li class="relative group submenu-item">
+                    <a
+                      href="javascript:void(0)"
+                      class="
+                        text-base text-dark
+                        lg:text-white
+                        lg:group-hover:opacity-70
+                        lg:group-hover:text-white
+                        group-hover:text-primary
+                        py-2
+                        lg:py-6 lg:inline-flex lg:pl-0 lg:pr-4
+                        flex
+                        mx-8
+                        lg:mr-0 lg:ml-8
+                        xl:ml-12
+                        relative
+                        after:absolute
+                        after:w-2
+                        after:h-2
+                        after:border-b-2
+                        after:border-r-2
+                        after:border-current
+                        after:rotate-45
+                        lg:after:right-0
+                        after:right-1
+                        after:top-1/2
+                        after:-translate-y-1/2
+                        after:mt-[-2px]
+                      "
+                    >
+                      Program
+                    </a>
+                    <div
+                      class="
+                        submenu
+                        hidden
+                        relative
+                        lg:absolute
+                        w-[250px]
+                        top-full
+                        lg:top-[110%]
+                        left-0
+                        rounded-sm
+                        lg:shadow-lg
+                        p-4
+                        lg:block lg:opacity-0 lg:invisible
+                        group-hover:opacity-100
+                        lg:group-hover:visible lg:group-hover:top-full
+                        bg-white
+                        transition-[top]
+                        duration-300
+                      "
+                    >
                       <a
-                        href="/404"
+                        href="/about"
                         class="
                           block
                           text-sm text-body-color
@@ -354,9 +348,76 @@
                           px-4
                         "
                       >
-                        404 Page
+                        Karir
                       </a>
-                    </div>
+                      <a
+                        href="/pricing"
+                        class="
+                          block
+                          text-sm text-body-color
+                          rounded
+                          hover:text-primary
+                          py-[10px]
+                          px-4
+                        "
+                      >
+                        Magang
+                      </a>
+                      <a
+                        href="/contact"
+                        class="
+                          block
+                          text-sm text-body-color
+                          rounded
+                          hover:text-primary
+                          py-[10px]
+                          px-4
+                        "
+                      >
+                        Kunjungan Industri
+                      </a>
+                  <li class="relative group">
+                    <a
+                      href="/#team"
+                      class="
+                        ud-menu-scroll
+                        text-base text-dark
+                        lg:text-white
+                        lg:group-hover:opacity-70
+                        lg:group-hover:text-white
+                        group-hover:text-primary
+                        py-2
+                        lg:py-6 lg:inline-flex lg:px-0
+                        flex
+                        mx-8
+                        lg:mr-0 lg:ml-7
+                        xl:ml-12
+                      "
+                    >
+                      About Us
+                    </a>
+                  </li>
+
+                  <li class="relative group">
+                    <a
+                      href="/#contact"
+                      class="
+                        ud-menu-scroll
+                        text-base text-dark
+                        lg:text-white
+                        lg:group-hover:opacity-70
+                        lg:group-hover:text-white
+                        group-hover:text-primary
+                        py-2
+                        lg:py-6 lg:inline-flex lg:px-0
+                        flex
+                        mx-8
+                        lg:mr-0 lg:ml-7
+                        xl:ml-12
+                      "
+                    >
+                      Contact Us
+                    </a>
                   </li>
                 </ul>
               </nav>
@@ -418,7 +479,7 @@
         <div class="flex flex-wrap items-center -mx-4">
           <div class="w-full px-4">
             <div class="text-center">
-              <h1 class="font-semibold text-white text-4xl">Pricing Page</h1>
+              <h1 class="font-semibold text-white text-4xl"></h1>
             </div>
           </div>
         </div>
@@ -491,882 +552,237 @@
     </div>
     <!-- ====== Banner Section End -->
 
-    <!-- ====== Pricing Section Start -->
-    <section
-      id="pricing"
-      class="
-        bg-white
-        pt-20
-        lg:pt-[120px]
-        pb-12
-        lg:pb-[90px]
-        relative
-        z-20
-        overflow-hidden
-      "
-    >
+    <!-- ====== Blog Section Start -->
+    <section class="pt-20 lg:pt-[120px] pb-10 lg:pb-20">
       <div class="container">
         <div class="flex flex-wrap -mx-4">
-          <div class="w-full px-4">
-            <div class="text-center mx-auto mb-[60px] lg:mb-20 max-w-[620px]">
-              <span class="font-semibold text-lg text-primary mb-2 block">
-                Pricing Table
-              </span>
-              <h2
-                class="
-                  font-bold
-                  text-3xl
-                  sm:text-4xl
-                  md:text-[40px]
-                  text-dark
-                  mb-4
-                "
-              >
-                Our Pricing Plan
-              </h2>
-              <p
-                class="
-                  text-lg
-                  sm:text-xl
-                  leading-relaxed
-                  sm:leading-relaxed
-                  text-body-color
-                "
-              >
-                There are many variations of passages of Lorem Ipsum available
-                but the majority have suffered alteration in some form.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div class="flex flex-wrap items-center justify-center">
-          <div class="w-full md:w-1/2 lg:w-1/3">
-            <div
-              class="
-                bg-white
-                rounded-xl
-                relative
-                z-10
-                overflow-hidden
-                border border-primary border-opacity-20
-                shadow-pricing
-                py-10
-                px-8
-                sm:p-12
-                lg:py-10 lg:px-6
-                xl:p-12
-                mb-10
-                text-center
-                wow
-                fadeInUp
-              "
-              data-wow-delay=".15s
-              "
-            >
-              <span
-                class="text-dark font-medium text-base uppercase block mb-2"
-              >
-                STARTING FROM
-              </span>
-              <h2 class="font-semibold text-primary mb-9 text-[28px]">
-                € 19.99/mo
-              </h2>
-
-              <div class="mb-10">
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  1 User
-                </p>
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  All UI components
-                </p>
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  Lifetime access
-                </p>
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  Free updates
-                </p>
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  Use on 1 (one) project
-                </p>
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  3 Months support
-                </p>
-              </div>
-              <div class="w-full">
-                <a
-                  href="javascript:void(0)"
-                  class="
-                    inline-block
-                    text-base
-                    font-medium
-                    text-primary
-                    bg-transparent
-                    border border-[#D4DEFF]
-                    rounded-full
-                    text-center
-                    py-4
-                    px-11
-                    hover:text-white hover:bg-primary hover:border-primary
-                    transition
-                    duration-300
-                    ease-in-out
-                  "
-                >
-                  Purchase Now
+          <div class="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div class="mb-10 group wow fadeInUp" data-wow-delay=".1s">
+              <div class="rounded overflow-hidden mb-8">
+                <a href="/blog-details" class="block">
+                  <img
+                    src="images/news/news-01.jpg"
+                    alt="image"
+                    class="
+                      w-full
+                      transition
+                      group-hover:scale-125 group-hover:rotate-6
+                    "
+                  />
                 </a>
               </div>
-              <span
-                class="
-                  absolute
-                  left-0
-                  bottom-0
-                  z-[-1]
-                  w-14
-                  h-14
-                  rounded-tr-full
-                  block
-                  bg-primary
-                "
-              >
-              </span>
-            </div>
-          </div>
-          <div class="w-full md:w-1/2 lg:w-1/3">
-            <div
-              class="
-                bg-primary bg-gradient-to-b
-                from-primary
-                to-[#179BEE]
-                rounded-xl
-                relative
-                z-10
-                overflow-hidden
-                shadow-pricing
-                py-10
-                px-8
-                sm:p-12
-                lg:py-10 lg:px-6
-                xl:p-12
-                mb-10
-                text-center
-                wow
-                fadeInUp
-              "
-              data-wow-delay=".1s
-              "
-            >
-              <span
-                class="
-                  inline-block
-                  py-2
-                  px-6
-                  border border-white
-                  rounded-full
-                  text-base
-                  font-semibold
-                  text-primary
-                  bg-white
-                  uppercase
-                  mb-5
-                "
-              >
-                POPULAR
-              </span>
-              <span
-                class="text-white font-medium text-base uppercase block mb-2"
-              >
-                STARTING FROM
-              </span>
-              <h2 class="font-semibold text-white mb-9 text-[28px]">
-                € 19.99/mo
-              </h2>
-
-              <div class="mb-10">
-                <p class="text-base font-medium text-white leading-loose mb-1">
-                  5 User
-                </p>
-                <p class="text-base font-medium text-white leading-loose mb-1">
-                  All UI components
-                </p>
-                <p class="text-base font-medium text-white leading-loose mb-1">
-                  Lifetime access
-                </p>
-                <p class="text-base font-medium text-white leading-loose mb-1">
-                  Free updates
-                </p>
-                <p class="text-base font-medium text-white leading-loose mb-1">
-                  Use on 1 (one) project
-                </p>
-                <p class="text-base font-medium text-white leading-loose mb-1">
-                  4 Months support
-                </p>
-              </div>
-              <div class="w-full">
-                <a
-                  href="javascript:void(0)"
-                  class="
-                    inline-block
-                    text-base
-                    font-medium
-                    text-dark
-                    bg-white
-                    border border-white
-                    rounded-full
-                    text-center
-                    py-4
-                    px-11
-                    hover:text-white hover:bg-dark hover:border-dark
-                    transition
-                    duration-300
-                    ease-in-out
-                  "
-                >
-                  Purchase Now
-                </a>
+              <div>
+                <h3>
+                  <a
+                    href="/blog-details"
+                    class="
+                      font-semibold
+                      text-xl
+                      sm:text-2xl
+                      lg:text-xl
+                      xl:text-2xl
+                      mb-4
+                      inline-block
+                      text-dark
+                      hover:text-primary
+                    "
+                  >
+                    RPP PAUD Tema Air Udara Api, Subtema Ciri dan Manfaat Udara
+                  </a>
               </div>
             </div>
           </div>
-          <div class="w-full md:w-1/2 lg:w-1/3">
-            <div
-              class="
-                bg-white
-                rounded-xl
-                relative
-                z-10
-                overflow-hidden
-                border border-primary border-opacity-20
-                shadow-pricing
-                py-10
-                px-8
-                sm:p-12
-                lg:py-10 lg:px-6
-                xl:p-12
-                mb-10
-                text-center
-                wow
-                fadeInUp
-              "
-              data-wow-delay=".15s
-              "
-            >
-              <span
-                class="text-dark font-medium text-base uppercase block mb-2"
-              >
-                STARTING FROM
-              </span>
-              <h2 class="font-semibold text-primary mb-9 text-[28px]">
-                € 70.99/mo
-              </h2>
-
-              <div class="mb-10">
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  1 User
-                </p>
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  All UI components
-                </p>
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  Lifetime access
-                </p>
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  Free updates
-                </p>
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  Use on unlimited project
-                </p>
-                <p
-                  class="
-                    text-base
-                    font-medium
-                    text-body-color
-                    leading-loose
-                    mb-1
-                  "
-                >
-                  4 Months support
-                </p>
-              </div>
-              <div class="w-full">
-                <a
-                  href="javascript:void(0)"
-                  class="
-                    inline-block
-                    text-base
-                    font-medium
-                    text-primary
-                    bg-transparent
-                    border border-[#D4DEFF]
-                    rounded-full
-                    text-center
-                    py-4
-                    px-11
-                    hover:text-white hover:bg-primary hover:border-primary
-                    transition
-                    duration-300
-                    ease-in-out
-                  "
-                >
-                  Purchase Now
+          <div class="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div class="mb-10 group wow fadeInUp" data-wow-delay=".15s">
+              <div class="rounded overflow-hidden mb-8">
+                <a href="/blog-details" class="block">
+                  <img
+                    src="images/news/news-02.jpg"
+                    alt="image"
+                    class="
+                      w-full
+                      transition
+                      group-hover:scale-125 group-hover:rotate-6
+                    "
+                  />
                 </a>
               </div>
-
-              <span
-                class="
-                  absolute
-                  right-0
-                  top-0
-                  z-[-1]
-                  w-14
-                  h-14
-                  rounded-bl-full
-                  block
-                  bg-secondary
-                "
-              >
-              </span>
+              <div>
+                <h3>
+                  <a
+                    href="/blog-details"
+                    class="
+                      font-semibold
+                      text-xl
+                      sm:text-2xl
+                      lg:text-xl
+                      xl:text-2xl
+                      mb-4
+                      inline-block
+                      text-dark
+                      hover:text-primary
+                    "
+                  >
+                    Cara Mengajar Anak Berhitung Melalui Aktivitas Sehari-Hari
+                  </a>
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div class="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div class="mb-10 group wow fadeInUp" data-wow-delay=".2s">
+              <div class="rounded overflow-hidden mb-8">
+                <a href="/blog-details" class="block">
+                  <img
+                    src="images/news/news-03.jpg"
+                    alt="image"
+                    class="
+                      w-full
+                      transition
+                      group-hover:scale-125 group-hover:rotate-6
+                    "
+                  />
+                </a>
+              </div>
+              <div>
+                <h3>
+                  <a
+                    href="/blog-details"
+                    class="
+                      font-semibold
+                      text-xl
+                      sm:text-2xl
+                      lg:text-xl
+                      xl:text-2xl
+                      mb-4
+                      inline-block
+                      text-dark
+                      hover:text-primary
+                    "
+                  >
+                    Tips Melatih Ketrampilan Bercerita pada Anak Usia Dini
+                  </a>
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div class="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div class="mb-10 group wow fadeInUp" data-wow-delay=".1s">
+              <div class="rounded overflow-hidden mb-8">
+                <a href="/blog-details" class="block">
+                  <img
+                    src="images/news/news-04.jpg"
+                    alt="image"
+                    class="
+                      w-full
+                      transition
+                      group-hover:scale-125 group-hover:rotate-6
+                    "
+                  />
+                </a>
+              </div>
+              <div>
+                <h3>
+                  <a
+                    href="/blog-details"
+                    class="
+                      font-semibold
+                      text-xl
+                      sm:text-2xl
+                      lg:text-xl
+                      xl:text-2xl
+                      mb-4
+                      inline-block
+                      text-dark
+                      hover:text-primary
+                    "
+                  >
+                    Kiat Guru Masa Kini, Agar Optimal dalam Melatih dan Mengedukasi
+                  </a>
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div class="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div class="mb-10 group wow fadeInUp" data-wow-delay=".15s">
+              <div class="rounded overflow-hidden mb-8">
+                <a href="/blog-details" class="block">
+                  <img
+                    src="images/news/news-05.jpg"
+                    alt="image"
+                    class="
+                      w-full
+                      transition
+                      group-hover:scale-125 group-hover:rotate-6
+                    "
+                  />
+                </a>
+              </div>
+              <div>
+                <h3>
+                  <a
+                    href="/blog-details"
+                    class="
+                      font-semibold
+                      text-xl
+                      sm:text-2xl
+                      lg:text-xl
+                      xl:text-2xl
+                      mb-4
+                      inline-block
+                      text-dark
+                      hover:text-primary
+                    "
+                  >
+                    Inilah Beberapa Persiapan Fisik dan Mental Sebelum Anak Bergabung di PAUD
+                  </a>
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div class="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div class="mb-10 group wow fadeInUp" data-wow-delay=".2s">
+              <div class="rounded overflow-hidden mb-8">
+                <a href="/blog-details" class="block">
+                  <img
+                    src="images/news/news-06.jpg"
+                    alt="image"
+                    class="
+                      w-full
+                      transition
+                      group-hover:scale-125 group-hover:rotate-6
+                    "
+                  />
+                </a>
+              </div>
+              <div>
+                <h3>
+                  <a
+                    href="/blog-details"
+                    class="
+                      font-semibold
+                      text-xl
+                      sm:text-2xl
+                      lg:text-xl
+                      xl:text-2xl
+                      mb-4
+                      inline-block
+                      text-dark
+                      hover:text-primary
+                    "
+                  >
+                    Inilah Beberapa Persiapan Fisik dan Mental Sebelum Anak Bergabung di PAUD
+                  </a>
+                </h3>
+              </div>
+            </div>
+          </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <!-- ====== Pricing Section End -->
-
-    <!-- ====== Faq Section Start -->
-    <section
-      class="
-        bg-[#f3f4ff]
-        pt-20
-        lg:pt-[120px]
-        pb-12
-        lg:pb-[90px]
-        relative
-        z-20
-        overflow-hidden
-      "
-    >
-      <div class="container">
-        <div class="flex flex-wrap -mx-4">
-          <div class="w-full px-4">
-            <div class="text-center mx-auto mb-[60px] lg:mb-20 max-w-[620px]">
-              <span class="font-semibold text-lg text-primary mb-2 block">
-                FAQ
-              </span>
-              <h2
-                class="
-                  font-bold
-                  text-3xl
-                  sm:text-4xl
-                  md:text-[42px]
-                  text-dark
-                  mb-4
-                "
-              >
-                Any Questions? Answered
-              </h2>
-              <p
-                class="
-                  text-lg
-                  sm:text-xl
-                  leading-relaxed
-                  sm:leading-relaxed
-                  text-body-color
-                "
-              >
-                There are many variations of passages of Lorem Ipsum available
-                but the majority have suffered alteration in some form.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div class="flex flex-wrap -mx-4">
-          <div class="w-full lg:w-1/2 px-4">
-            <div
-              class="
-                single-faq
-                w-full
-                bg-white
-                border border-[#F3F4FE]
-                rounded-lg
-                p-5
-                sm:p-8
-                mb-8
-                wow
-                fadeInUp
-              "
-              data-wow-delay=".1s
-              "
-            >
-              <button class="faq-btn flex items-center w-full text-left">
-                <div
-                  class="
-                    w-full
-                    max-w-[40px]
-                    h-10
-                    flex
-                    items-center
-                    justify-center
-                    rounded-lg
-                    bg-primary
-                    text-primary
-                    bg-opacity-5
-                    mr-5
-                  "
-                >
-                  <svg
-                    width="17"
-                    height="10"
-                    viewBox="0 0 17 10"
-                    class="fill-current icon"
-                  >
-                    <path
-                      d="M7.28687 8.43257L7.28679 8.43265L7.29496 8.43985C7.62576 8.73124 8.02464 8.86001 8.41472 8.86001C8.83092 8.86001 9.22376 8.69083 9.53447 8.41713L9.53454 8.41721L9.54184 8.41052L15.7631 2.70784L15.7691 2.70231L15.7749 2.69659C16.0981 2.38028 16.1985 1.80579 15.7981 1.41393C15.4803 1.1028 14.9167 1.00854 14.5249 1.38489L8.41472 7.00806L2.29995 1.38063L2.29151 1.37286L2.28271 1.36548C1.93092 1.07036 1.38469 1.06804 1.03129 1.41393L1.01755 1.42738L1.00488 1.44184C0.69687 1.79355 0.695778 2.34549 1.0545 2.69659L1.05999 2.70196L1.06565 2.70717L7.28687 8.43257Z"
-                      fill="#3056D3"
-                      stroke="#3056D3"
-                    />
-                  </svg>
-                </div>
-                <div class="w-full">
-                  <h4 class="text-base sm:text-lg font-semibold text-black">
-                    How to use UIdeck?
-                  </h4>
-                </div>
-              </button>
-              <div class="faq-content pl-[62px] hidden">
-                <p class="text-base text-body-color leading-relaxed py-3">
-                  It takes 2-3 weeks to get your first blog post ready. That
-                  includes the in-depth research & creation of your monthly
-                  content marketing strategy that we do before writing your
-                  first blog post, Ipsum available .
-                </p>
-              </div>
-            </div>
-            <div
-              class="
-                single-faq
-                w-full
-                bg-white
-                border border-[#F3F4FE]
-                rounded-lg
-                p-5
-                sm:p-8
-                mb-8
-                wow
-                fadeInUp
-              "
-              data-wow-delay=".15s
-              "
-            >
-              <button class="faq-btn flex items-center w-full text-left">
-                <div
-                  class="
-                    w-full
-                    max-w-[40px]
-                    h-10
-                    flex
-                    items-center
-                    justify-center
-                    rounded-lg
-                    bg-primary
-                    text-primary
-                    bg-opacity-5
-                    mr-5
-                  "
-                >
-                  <svg
-                    width="17"
-                    height="10"
-                    viewBox="0 0 17 10"
-                    class="fill-current icon"
-                  >
-                    <path
-                      d="M7.28687 8.43257L7.28679 8.43265L7.29496 8.43985C7.62576 8.73124 8.02464 8.86001 8.41472 8.86001C8.83092 8.86001 9.22376 8.69083 9.53447 8.41713L9.53454 8.41721L9.54184 8.41052L15.7631 2.70784L15.7691 2.70231L15.7749 2.69659C16.0981 2.38028 16.1985 1.80579 15.7981 1.41393C15.4803 1.1028 14.9167 1.00854 14.5249 1.38489L8.41472 7.00806L2.29995 1.38063L2.29151 1.37286L2.28271 1.36548C1.93092 1.07036 1.38469 1.06804 1.03129 1.41393L1.01755 1.42738L1.00488 1.44184C0.69687 1.79355 0.695778 2.34549 1.0545 2.69659L1.05999 2.70196L1.06565 2.70717L7.28687 8.43257Z"
-                      fill="#3056D3"
-                      stroke="#3056D3"
-                    />
-                  </svg>
-                </div>
-                <div class="w-full">
-                  <h4 class="text-base sm:text-lg font-semibold text-black">
-                    How to download icons from LineIcons?
-                  </h4>
-                </div>
-              </button>
-              <div class="faq-content pl-[62px] hidden">
-                <p class="text-base text-body-color leading-relaxed py-3">
-                  It takes 2-3 weeks to get your first blog post ready. That
-                  includes the in-depth research & creation of your monthly
-                  content marketing strategy that we do before writing your
-                  first blog post, Ipsum available .
-                </p>
-              </div>
-            </div>
-            <div
-              class="
-                single-faq
-                w-full
-                bg-white
-                border border-[#F3F4FE]
-                rounded-lg
-                p-5
-                sm:p-8
-                mb-8
-                wow
-                fadeInUp
-              "
-              data-wow-delay=".2s
-              "
-            >
-              <button class="faq-btn flex items-center w-full text-left">
-                <div
-                  class="
-                    w-full
-                    max-w-[40px]
-                    h-10
-                    flex
-                    items-center
-                    justify-center
-                    rounded-lg
-                    bg-primary
-                    text-primary
-                    bg-opacity-5
-                    mr-5
-                  "
-                >
-                  <svg
-                    width="17"
-                    height="10"
-                    viewBox="0 0 17 10"
-                    class="fill-current icon"
-                  >
-                    <path
-                      d="M7.28687 8.43257L7.28679 8.43265L7.29496 8.43985C7.62576 8.73124 8.02464 8.86001 8.41472 8.86001C8.83092 8.86001 9.22376 8.69083 9.53447 8.41713L9.53454 8.41721L9.54184 8.41052L15.7631 2.70784L15.7691 2.70231L15.7749 2.69659C16.0981 2.38028 16.1985 1.80579 15.7981 1.41393C15.4803 1.1028 14.9167 1.00854 14.5249 1.38489L8.41472 7.00806L2.29995 1.38063L2.29151 1.37286L2.28271 1.36548C1.93092 1.07036 1.38469 1.06804 1.03129 1.41393L1.01755 1.42738L1.00488 1.44184C0.69687 1.79355 0.695778 2.34549 1.0545 2.69659L1.05999 2.70196L1.06565 2.70717L7.28687 8.43257Z"
-                      fill="#3056D3"
-                      stroke="#3056D3"
-                    />
-                  </svg>
-                </div>
-                <div class="w-full">
-                  <h4 class="text-base sm:text-lg font-semibold text-black">
-                    Is GrayGrids part of UIdeck?
-                  </h4>
-                </div>
-              </button>
-              <div class="faq-content pl-[62px] hidden">
-                <p class="text-base text-body-color leading-relaxed py-3">
-                  It takes 2-3 weeks to get your first blog post ready. That
-                  includes the in-depth research & creation of your monthly
-                  content marketing strategy that we do before writing your
-                  first blog post, Ipsum available .
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="w-full lg:w-1/2 px-4">
-            <div
-              class="
-                single-faq
-                w-full
-                bg-white
-                border border-[#F3F4FE]
-                rounded-lg
-                p-5
-                sm:p-8
-                mb-8
-                wow
-                fadeInUp
-              "
-              data-wow-delay=".1s
-              "
-            >
-              <button class="faq-btn flex items-center w-full text-left">
-                <div
-                  class="
-                    w-full
-                    max-w-[40px]
-                    h-10
-                    flex
-                    items-center
-                    justify-center
-                    rounded-lg
-                    bg-primary
-                    text-primary
-                    bg-opacity-5
-                    mr-5
-                  "
-                >
-                  <svg
-                    width="17"
-                    height="10"
-                    viewBox="0 0 17 10"
-                    class="fill-current icon"
-                  >
-                    <path
-                      d="M7.28687 8.43257L7.28679 8.43265L7.29496 8.43985C7.62576 8.73124 8.02464 8.86001 8.41472 8.86001C8.83092 8.86001 9.22376 8.69083 9.53447 8.41713L9.53454 8.41721L9.54184 8.41052L15.7631 2.70784L15.7691 2.70231L15.7749 2.69659C16.0981 2.38028 16.1985 1.80579 15.7981 1.41393C15.4803 1.1028 14.9167 1.00854 14.5249 1.38489L8.41472 7.00806L2.29995 1.38063L2.29151 1.37286L2.28271 1.36548C1.93092 1.07036 1.38469 1.06804 1.03129 1.41393L1.01755 1.42738L1.00488 1.44184C0.69687 1.79355 0.695778 2.34549 1.0545 2.69659L1.05999 2.70196L1.06565 2.70717L7.28687 8.43257Z"
-                      fill="#3056D3"
-                      stroke="#3056D3"
-                    />
-                  </svg>
-                </div>
-                <div class="w-full">
-                  <h4 class="text-base sm:text-lg font-semibold text-black">
-                    Can I use this template for commercial project?
-                  </h4>
-                </div>
-              </button>
-              <div class="faq-content pl-[62px] hidden">
-                <p class="text-base text-body-color leading-relaxed py-3">
-                  It takes 2-3 weeks to get your first blog post ready. That
-                  includes the in-depth research & creation of your monthly
-                  content marketing strategy that we do before writing your
-                  first blog post, Ipsum available .
-                </p>
-              </div>
-            </div>
-            <div
-              class="
-                single-faq
-                w-full
-                bg-white
-                border border-[#F3F4FE]
-                rounded-lg
-                p-5
-                sm:p-8
-                mb-8
-                wow
-                fadeInUp
-              "
-              data-wow-delay=".15s
-              "
-            >
-              <button class="faq-btn flex items-center w-full text-left">
-                <div
-                  class="
-                    w-full
-                    max-w-[40px]
-                    h-10
-                    flex
-                    items-center
-                    justify-center
-                    rounded-lg
-                    bg-primary
-                    text-primary
-                    bg-opacity-5
-                    mr-5
-                  "
-                >
-                  <svg
-                    width="17"
-                    height="10"
-                    viewBox="0 0 17 10"
-                    class="fill-current icon"
-                  >
-                    <path
-                      d="M7.28687 8.43257L7.28679 8.43265L7.29496 8.43985C7.62576 8.73124 8.02464 8.86001 8.41472 8.86001C8.83092 8.86001 9.22376 8.69083 9.53447 8.41713L9.53454 8.41721L9.54184 8.41052L15.7631 2.70784L15.7691 2.70231L15.7749 2.69659C16.0981 2.38028 16.1985 1.80579 15.7981 1.41393C15.4803 1.1028 14.9167 1.00854 14.5249 1.38489L8.41472 7.00806L2.29995 1.38063L2.29151 1.37286L2.28271 1.36548C1.93092 1.07036 1.38469 1.06804 1.03129 1.41393L1.01755 1.42738L1.00488 1.44184C0.69687 1.79355 0.695778 2.34549 1.0545 2.69659L1.05999 2.70196L1.06565 2.70717L7.28687 8.43257Z"
-                      fill="#3056D3"
-                      stroke="#3056D3"
-                    />
-                  </svg>
-                </div>
-                <div class="w-full">
-                  <h4 class="text-base sm:text-lg font-semibold text-black">
-                    Do you have plan to releasing Play Pro?
-                  </h4>
-                </div>
-              </button>
-              <div class="faq-content pl-[62px] hidden">
-                <p class="text-base text-body-color leading-relaxed py-3">
-                  It takes 2-3 weeks to get your first blog post ready. That
-                  includes the in-depth research & creation of your monthly
-                  content marketing strategy that we do before writing your
-                  first blog post, Ipsum available .
-                </p>
-              </div>
-            </div>
-            <div
-              class="
-                single-faq
-                w-full
-                bg-white
-                border border-[#F3F4FE]
-                rounded-lg
-                p-5
-                sm:p-8
-                mb-8
-                wow
-                fadeInUp
-              "
-              data-wow-delay=".2s
-              "
-            >
-              <button class="faq-btn flex items-center w-full text-left">
-                <div
-                  class="
-                    w-full
-                    max-w-[40px]
-                    h-10
-                    flex
-                    items-center
-                    justify-center
-                    rounded-lg
-                    bg-primary
-                    text-primary
-                    bg-opacity-5
-                    mr-5
-                  "
-                >
-                  <svg
-                    width="17"
-                    height="10"
-                    viewBox="0 0 17 10"
-                    class="fill-current icon"
-                  >
-                    <path
-                      d="M7.28687 8.43257L7.28679 8.43265L7.29496 8.43985C7.62576 8.73124 8.02464 8.86001 8.41472 8.86001C8.83092 8.86001 9.22376 8.69083 9.53447 8.41713L9.53454 8.41721L9.54184 8.41052L15.7631 2.70784L15.7691 2.70231L15.7749 2.69659C16.0981 2.38028 16.1985 1.80579 15.7981 1.41393C15.4803 1.1028 14.9167 1.00854 14.5249 1.38489L8.41472 7.00806L2.29995 1.38063L2.29151 1.37286L2.28271 1.36548C1.93092 1.07036 1.38469 1.06804 1.03129 1.41393L1.01755 1.42738L1.00488 1.44184C0.69687 1.79355 0.695778 2.34549 1.0545 2.69659L1.05999 2.70196L1.06565 2.70717L7.28687 8.43257Z"
-                      fill="#3056D3"
-                      stroke="#3056D3"
-                    />
-                  </svg>
-                </div>
-                <div class="w-full">
-                  <h4 class="text-base sm:text-lg font-semibold text-black">
-                    Where and how to host this template?
-                  </h4>
-                </div>
-              </button>
-              <div class="faq-content pl-[62px] hidden">
-                <p class="text-base text-body-color leading-relaxed py-3">
-                  It takes 2-3 weeks to get your first blog post ready. That
-                  includes the in-depth research & creation of your monthly
-                  content marketing strategy that we do before writing your
-                  first blog post, Ipsum available .
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="absolute bottom-0 right-0 z-[-1]">
-        <svg
-          width="1440"
-          height="886"
-          viewBox="0 0 1440 886"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            opacity="0.5"
-            d="M193.307 -273.321L1480.87 1014.24L1121.85 1373.26C1121.85 1373.26 731.745 983.231 478.513 729.927C225.976 477.317 -165.714 85.6993 -165.714 85.6993L193.307 -273.321Z"
-            fill="url(#paint0_linear)"
-          />
-          <defs>
-            <linearGradient
-              id="paint0_linear"
-              x1="1308.65"
-              y1="1142.58"
-              x2="602.827"
-              y2="-418.681"
-              gradientUnits="userSpaceOnUse"
-            >
-              <stop stop-color="#3056D3" stop-opacity="0.36" />
-              <stop offset="1" stop-color="#F5F2FD" stop-opacity="0" />
-              <stop offset="1" stop-color="#F5F2FD" stop-opacity="0.096144" />
-            </linearGradient>
-          </defs>
-        </svg>
-      </div>
-    </section>
-    <!-- ====== Faq Section End -->
+    <!-- ====== Blog Section End -->
 
     <!-- ====== Footer Section Start -->
     <footer
@@ -1382,7 +798,7 @@
                 class="inline-block max-w-[160px] mb-6"
               >
                 <img
-                  src="images/logo/logo-white.svg"
+                  src="images/logo/logo-white.png"
                   alt="logo"
                   class="max-w-full"
                 />

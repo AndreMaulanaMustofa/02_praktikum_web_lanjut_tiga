@@ -7,7 +7,7 @@
     <title>404 Page | Play Tailwind</title>
     <link
       rel="shortcut icon"
-      href="{{asset('assets/images/logo/favicon.svg')}}"
+      href="{{asset('assets/images/logo/favicon.ico')}}"
       type="image/x-icon"
     />
     <link rel="stylesheet" href="{{asset('css/app.css')}}"/>
@@ -40,7 +40,7 @@
           <div class="px-4 w-60 max-w-full">
             <a href="/" class="navbar-logo w-full block py-5">
               <img
-                src="images/logo/logo-white.svg"
+                src="images/logo/logo-white.png"
                 alt="logo"
                 class="w-full header-logo"
               />
@@ -613,7 +613,7 @@
                 class="inline-block max-w-[160px] mb-6"
               >
                 <img
-                  src="images/logo/logo-white.svg"
+                  src="images/logo/logo-white.png"
                   alt="logo"
                   class="max-w-full"
                 />
