@@ -171,7 +171,7 @@
                       "
                     >
                       <a
-                        href="/about"
+                        href="/products/marble-edu-games"
                         class="
                           block
                           text-sm text-body-color
@@ -184,7 +184,7 @@
                         Marbel - Educational Games
                       </a>
                       <a
-                        href="/pricing"
+                        href="/products/marble-and-friends"
                         class="
                           block
                           text-sm text-body-color
@@ -197,7 +197,7 @@
                         Marbel & Friends - Kids Games
                       </a>
                       <a
-                        href="/contact"
+                        href="/products/riri-story-books"
                         class="
                           block
                           text-sm text-body-color
@@ -210,7 +210,7 @@
                         Riri - Story Books
                       </a>
                       <a
-                        href="/blog-grids"
+                        href="/products/kolak-kids-songs"
                         class="
                           block
                           text-sm text-body-color
@@ -223,7 +223,7 @@
                         Kolak - Kids Songs
                       </a>
                       <a
-                        href="/blog-details"
+                        href="/products/kabi-islamic-books"
                         class="
                           block
                           text-sm text-body-color
@@ -236,7 +236,7 @@
                         Kabi - Islamic Apps
                       </a>
                       <a
-                        href="/signup"
+                        href="/products/marble-junior"
                         class="
                           block
                           text-sm text-body-color
@@ -249,7 +249,7 @@
                         Marble Junior - Merchandise & Licensing
                       </a>
                       <a
-                        href="/signin"
+                        href="/products/keong-casual-games"
                         class="
                           block
                           text-sm text-body-color
@@ -267,7 +267,6 @@
                     <a
                       href="/news"
                       class="
-                        ud-menu-scroll
                         text-base text-dark
                         lg:text-white
                         lg:group-hover:opacity-70
@@ -338,7 +337,7 @@
                       "
                     >
                       <a
-                        href="/about"
+                        href="/program/karir"
                         class="
                           block
                           text-sm text-body-color
@@ -351,7 +350,7 @@
                         Karir
                       </a>
                       <a
-                        href="/pricing"
+                        href="/program/magang"
                         class="
                           block
                           text-sm text-body-color
@@ -364,7 +363,7 @@
                         Magang
                       </a>
                       <a
-                        href="/contact"
+                        href="/program/kunjungan-industri"
                         class="
                           block
                           text-sm text-body-color
@@ -378,7 +377,7 @@
                       </a>
                   <li class="relative group">
                     <a
-                      href="/#team"
+                      href="/about"
                       class="
                         ud-menu-scroll
                         text-base text-dark
