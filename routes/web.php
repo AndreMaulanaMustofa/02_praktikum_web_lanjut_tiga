@@ -68,3 +68,7 @@ route::prefix('program')->group(function(){
 Route::get('/about', function () {
     return view('about');
 });
+
+Route::resource('contact', ContactController::class)->only([
+    'index'
+]);
